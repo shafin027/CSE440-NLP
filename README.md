@@ -515,8 +515,8 @@ All experiments are reproducible.
 
 ### Computer Science Student | Machine Learning & NLP Enthusiast
 
-* 🔗 LinkedIn: [https://linkedin.com/in/your-link](https://linkedin.com/in/shafin-mahamud/)
-* 💻 GitHub: [https://github.com/your-username](https://github.com/shafin027)
+* 🔗 LinkedIn: [LinkdIn](https://linkedin.com/in/shafin-mahamud/)
+* 💻 GitHub: [Github](https://github.com/shafin027)
 
 ---
 
